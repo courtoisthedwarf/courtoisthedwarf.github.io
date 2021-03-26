@@ -1,1 +1,0 @@
-To start the quiz open the 'index.html' file in a browser.
